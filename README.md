@@ -1,2 +1,2 @@
-# Belajar_GIT
+# Test GIT
 First time belajarGIT
